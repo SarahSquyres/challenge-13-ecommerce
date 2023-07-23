@@ -11,7 +11,7 @@ router.get('/', async (req, res) => {
     });
     res.status(200).json(tagData);
   } catch (err) {
-    res.status(500).json(err);
+    res.status(500).json({ message: "Tags not found!" });
   }
   // be sure to include its associated Product data
 });
