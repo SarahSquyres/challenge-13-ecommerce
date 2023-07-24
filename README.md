@@ -9,6 +9,7 @@
 * [License](#license)
 * [Walkthrough](#walkthrough)
 * [GitHub Repo](#github-repo)
+* [Credits](#credits)
 
 ## Description
 This is the backend of an e-commerce application.  Users have the ability to connect to a database and perform CRUD operations.
@@ -52,4 +53,11 @@ Licensed under the MIT license.
 Here's the link to my GitHub repo:
 
 [E-Commerce Repository](https://github.com/SarahSquyres/challenge-13-ecommerce)
+
+## Credits
+I would like to thank my tutor, Faran, for helping me get started.
+
+The following website also helped guide me through the project:
+
+(https://github.com/ThomasCalle/Thomas-Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/main/routes/api/product-routes.js)
 
